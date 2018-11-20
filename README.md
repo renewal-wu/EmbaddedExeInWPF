@@ -1,6 +1,6 @@
 
 # Embadded exe in WPF
-# Enviroment
+# Environment
 * .Net framework 4.7
 * WPF
 * Visual studio 2017
