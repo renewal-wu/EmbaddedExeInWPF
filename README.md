@@ -1,5 +1,5 @@
 
-# Embadded exe in WPF
+# Embedded exe in WPF
 # Environment
 * .Net framework 4.7
 * WPF
