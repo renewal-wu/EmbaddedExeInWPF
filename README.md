@@ -7,4 +7,4 @@
 * Windows 10
 
 # Blog
-* https://dotblogs.com.tw/renewalwu/2018/11/20/embadded_exe_in_wpf
+* https://dotblogs.com.tw/renewalwu/2018/11/20/embedded_exe_in_wpf
